@@ -1,0 +1,18 @@
+{
+  "name": "ex_gulp4",
+  "version": "0.0.0",
+  "description": "Gulp 4 Tutorial Exercise Files",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rapidevelop/ex_gulp4.git"
+  },
+  "keywords": [],
+  "author": "Iman Vafadarnezhad",
+  "license": "UNLICENSED",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/rapidevelop/ex_gulp4/issues"
+  },
+  "homepage": "https://github.com/rapidevelop/ex_gulp4#readme"
+}
