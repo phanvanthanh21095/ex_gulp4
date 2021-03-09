@@ -2,7 +2,9 @@
   "name": "ex_gulp4",
   "version": "0.0.0",
   "description": "Gulp 4 Tutorial Exercise Files",
-  "scripts": {},
+  "scripts": {
+    "git:commit": "cz"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rapidevelop/ex_gulp4.git"
@@ -14,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/rapidevelop/ex_gulp4/issues"
   },
-  "homepage": "https://github.com/rapidevelop/ex_gulp4#readme"
+  "homepage": "https://github.com/rapidevelop/ex_gulp4#readme",
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "devDependencies": {
+    "commitizen": "^4.2.3",
+    "cz-conventional-changelog": "^3.3.0"
+  }
 }
