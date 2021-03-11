@@ -11,7 +11,7 @@
   },
   "keywords": [],
   "author": "Iman Vafadarnezhad",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "private": true,
   "bugs": {
     "url": "https://github.com/rapidevelop/ex_gulp4/issues"
